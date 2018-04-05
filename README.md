@@ -16,6 +16,8 @@ Java source compilation on Windows: javac -cp ".;./mysql_connector.jar" Program.
 
 Java source execution on Windows: java -cp ".;./mysql_connector.jar" Program
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Sample username: cem
 
 Sample password: 20000001
